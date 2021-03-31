@@ -1,0 +1,24 @@
+html, body {
+
+
+  font-family: "New Tegomin";
+  color:white;
+  line-height: 40px;
+  text-align: center;
+  border: 2px;
+  height: 3200px;
+  background: linear-gradient(#3a4f6e, #07132b);
+}
+
+#linktowork{
+font-size: 19px;
+color: lightblue;
+
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+}
