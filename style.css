@@ -23,9 +23,9 @@ html, body {
   letter-spacing: 2px;
 }
 
-#linktowork {
-  color: white;
-  font-size: 30px;
+.linktowork {
+  color:inherit;
+  font-size: 26px;
   letter-spacing: 2px;
 }
 
@@ -79,10 +79,16 @@ html, body {
   margin-left: 80px;
   margin-right: 50px;
 }
+.aboutMain {
+  grid-area: 1 / 1 / 3 / 3;
+  margin-left: 80px;
+  margin-right: 50px;
+}
 
 .right {
   grid-area: 1 / 3 / 3 / 4;
 }
+
 
 .fixColumn {
   margin-top: 60px;
